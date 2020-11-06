@@ -3,8 +3,8 @@ WorldInfo {
   coordinateSystem "NUE"
 }
 Viewpoint {
-  orientation -0.720047401540266 0.684634495209127 0.11316955202197584 0.7459901885107388
-  position 0.7003852773027314 0.8637330482062906 1.2049945179280255
+  orientation -0.6860402028580923 0.6996127131597685 0.19972704285513085 0.7569637306564331
+  position 1.2486563278825318 1.5999999999999999 2.2700633035746725
 }
 TexturedBackground {
   texture "noon_building_overcast"
@@ -14,7 +14,4 @@ TexturedBackgroundLight {
 }
 Floor {
   size 1 1
-}
-TinkerbotsBase {
-  translation 0 0.02 0
 }
