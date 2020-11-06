@@ -1,0 +1,17 @@
+#VRML_SIM R2020b utf8
+WorldInfo {
+  coordinateSystem "NUE"
+}
+Viewpoint {
+  orientation -0.6860402028580923 0.6996127131597685 0.19972704285513085 0.7569637306564331
+  position 1.2486563278825318 1.5999999999999999 2.2700633035746725
+}
+TexturedBackground {
+  texture "noon_building_overcast"
+}
+TexturedBackgroundLight {
+  texture "noon_building_overcast"
+}
+Floor {
+  size 1 1
+}
